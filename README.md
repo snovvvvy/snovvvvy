@@ -1,6 +1,6 @@
 # Hi there 👋, I'm snovvvvy!
 
-🎮 **Roblox LuaU Scripter**  
+🧑‍💻 **Roblox LuaU Scripter**  
 Mostly self taught, I specialize in scripting advanced games for Roblox, bringing creativity and technical excellence to every project.
 
 ## 🚀 About Me
