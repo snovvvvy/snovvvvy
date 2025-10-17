@@ -9,7 +9,7 @@ Mostly self taught, I specialize in scripting advanced games for Roblox, bringin
 - **Portfolio:** [My Portfolio]()
 - **Discord:** snovvvvy
 
-> *Fun Fact:* I once spent countless hours debugging a single script until it was flawless!
+> *Fun Fact:* I type about 70 WPM average.
 
 ---
 
