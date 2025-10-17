@@ -17,6 +17,7 @@ Mostly self taught, I specialize in scripting advanced games for Roblox, bringin
 - LuaU Scripting for Roblox
 - A bit of UI
 - Datastores, MessagingService
+- Rojo
 - More
 
 ## 🌟 Featured Projects
