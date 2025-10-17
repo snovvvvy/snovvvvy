@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm snovvvvy!
 
-<!--
-**snovvvvy/snovvvvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Roblox LuaU Scripter**  
+Mostly self taught, I specialize in scripting advanced games for Roblox, bringing creativity and technical excellence to every project.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- **Role:** Roblox LuaU Scripter
+- **Skills:** scripting, a bit of UI
+- **Portfolio:** [My Portfolio]()
+- **Discord:** snovvvvy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *Fun Fact:* I once spent countless hours debugging a single script until it was flawless—dedication is my middle name!
+
+---
+
+## 🛠️ Top Skills
+- LuaU Scripting for Roblox
+- A bit of UI
+- Datastores, MessagingService
+- More
+
+## 🌟 Featured Projects
+Check out my portfolio for a showcase of my favorite projects!
+
+---
+
+## 📫 Connect with Me
+- **Discord:** snovvvvy
+
+---
+
+Thanks for stopping by!  
+*Let’s build something awesome together.*
