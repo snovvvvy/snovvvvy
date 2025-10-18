@@ -6,7 +6,7 @@ Mostly self taught, I specialize in scripting advanced games for Roblox, bringin
 ## 🚀 About Me
 - **Role:** Roblox LuaU Scripter
 - **Skills:** scripting, a bit of UI
-- **Portfolio:** [My Portfolio](snovvvvy.github.io)
+- **Portfolio:** [My Portfolio](https://snovvvvy.github.io)
 - **Discord:** snovvvvy
 
 > *Fun Fact:* I type about 70 WPM average.
