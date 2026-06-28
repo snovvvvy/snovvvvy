@@ -1,3 +1,3 @@
 ## Hi there, im snovvvvy! 👋
-
-[![snovvvvy's GitHub stats](https://github-readme-stats.vercel.app/api?username=snovvvvy)](https://github.com/anuraghazra/github-readme-stats)
+- you might know me from my vape mod
+![snovvvvy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snovvvvy&theme=react&show_icons=true&hide_border=false&layout=compact)
