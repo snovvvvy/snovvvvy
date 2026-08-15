@@ -1,5 +1,11 @@
-## Hi there, im snovvvvy! 👋
-- you might know me from my vape mod
-- mostly code in lua
+# Hi, I'm snow 👋
 
-![snovvvvy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snovvvvy&theme=react&show_icons=true&hide_border=false&layout=compact)
+Roblox exploit developer. Creator of **Snow Hub**, a script hub.
+
+## Snow Hub
+
+- 💬 Discord: [discord.gg/t89pYT8x4E](https://discord.gg/t89pYT8x4E)
+- 📺 YouTube: [snovvvvy](https://www.youtube.com/@snow-tj1)
+
+---
+Not your average script dev, still figuring out exactly where I stand compared to others in the space.
